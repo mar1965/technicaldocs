@@ -1,2 +1,2 @@
 # technicaldocs
-Repo of technical documents written for various jobs with redacted identifying information
+This is just a repo of technical documents I've written for various jobs with identifying information redacted.
